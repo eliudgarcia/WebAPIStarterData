@@ -1,0 +1,8 @@
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\bin\Debug\netstandard2.1\WebAPIStarterData.deps.json
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\bin\Debug\netstandard2.1\WebAPIStarterData.dll
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\bin\Debug\netstandard2.1\WebAPIStarterData.pdb
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\obj\Debug\netstandard2.1\WebAPIStarterData.csprojAssemblyReference.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\obj\Debug\netstandard2.1\WebAPIStarterData.AssemblyInfoInputs.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\obj\Debug\netstandard2.1\WebAPIStarterData.AssemblyInfo.cs
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\obj\Debug\netstandard2.1\WebAPIStarterData.dll
+C:\Users\LGARCIARSN\Desktop\CLOUD\new project\WebAPIStarterData\obj\Debug\netstandard2.1\WebAPIStarterData.pdb
